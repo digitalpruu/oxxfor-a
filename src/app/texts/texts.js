@@ -1,9 +1,9 @@
 const title = "OXXFOR.A";
-const email = ""; // Información no proporcionada
+const email = "corbaparrarosamaria@gmail.com"; // Información no proporcionada
 const mensajeWhatsApp = encodeURIComponent(
     "¡Hola! Estoy muy interesado en tus productos de " + title + " y me gustaría recibir más información sobre ellos. Espero poder hablar pronto contigo para aclarar algunas dudas. ¡Gracias!"
 );
-const numeroWhatsApp = ""; // Información no proporcionada
+const numeroWhatsApp = "+573143957223";
 
 const textos = {
     index: {
@@ -28,7 +28,7 @@ const textos = {
         address: "", // Información no proporcionada
         phone: numeroWhatsApp,
         email: email,
-        facebook: "https://www.facebook.com/",
+        facebook: "https://www.facebook.com/share/SAuERpf3xrAGUBMo/?mibextid=qi2Omg   ",
         instagram: "https://www.instagram.com/",
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`
     },
