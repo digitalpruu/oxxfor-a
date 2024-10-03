@@ -28,8 +28,8 @@ const textos = {
         address: "", // Información no proporcionada
         phone: numeroWhatsApp,
         email: email,
-        facebook: "https://www.facebook.com/share/SAuERpf3xrAGUBMo/?mibextid=qi2Omg   ",
-        instagram: "https://www.instagram.com/",
+        facebook: "https://www.facebook.com/share/SAuERpf3xrAGUBMo/?mibextid=qi2Omg",
+        instagram: "https://www.instagram.com/lina.lune.artisane?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`
     },
 };
